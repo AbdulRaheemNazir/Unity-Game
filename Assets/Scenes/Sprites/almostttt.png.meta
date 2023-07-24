@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 5d6bb3d7c31998d43a1ce9aaad3de5a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8761879120968540158
+    second: almostttt_0
+  - first:
+      213: 7502141722638768756
+    second: almostttt_1
+  - first:
+      213: -8770465771519585310
+    second: almostttt_2
+  - first:
+      213: 5056084852338592234
+    second: almostttt_3
+  - first:
+      213: -3754910028435580028
+    second: almostttt_4
+  - first:
+      213: 174924137619661802
+    second: almostttt_5
+  - first:
+      213: -6309879518693767164
+    second: almostttt_6
+  - first:
+      213: 2332516321379444362
+    second: almostttt_7
+  - first:
+      213: 5840166764565585799
+    second: almostttt_8
+  - first:
+      213: 8931030004625184418
+    second: almostttt_9
+  - first:
+      213: -2311799445282905080
+    second: almostttt_10
+  - first:
+      213: 671862530813204180
+    second: almostttt_11
+  - first:
+      213: -1783069289080609322
+    second: almostttt_12
+  - first:
+      213: -3044239161209836363
+    second: almostttt_13
+  - first:
+      213: -5267740881211808147
+    second: almostttt_14
+  - first:
+      213: -4665912385191008721
+    second: almostttt_15
+  - first:
+      213: 7693532992001257277
+    second: almostttt_16
+  - first:
+      213: 3183658001153331670
+    second: almostttt_17
+  - first:
+      213: 2295006984392904047
+    second: almostttt_18
+  - first:
+      213: -6092739822627270661
+    second: almostttt_19
+  - first:
+      213: -6527170981853783077
+    second: almostttt_20
+  - first:
+      213: 5531826115855372242
+    second: almostttt_21
+  - first:
+      213: 9188939662617752480
+    second: almostttt_22
+  - first:
+      213: -7279898166649441536
+    second: almostttt_23
+  - first:
+      213: 6744761550249673616
+    second: almostttt_24
+  - first:
+      213: -9148666678172344215
+    second: almostttt_25
+  - first:
+      213: -3295900357559760275
+    second: almostttt_26
+  - first:
+      213: -996985330011768071
+    second: almostttt_27
+  - first:
+      213: -3850586529307626340
+    second: almostttt_28
+  - first:
+      213: 8693057668318841521
+    second: almostttt_29
+  - first:
+      213: -2495434763047659211
+    second: almostttt_30
+  - first:
+      213: 5510370620722329496
+    second: almostttt_31
+  - first:
+      213: 6809425340515457850
+    second: almostttt_32
+  - first:
+      213: -1447809920605288291
+    second: almostttt_33
+  - first:
+      213: -6847327148109134015
+    second: almostttt_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: almostttt_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 345
+        width: 229
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20022c5ac5d876680800000000000000
+      internalID: -8761879120968540158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 704
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a55801626fc1860800000000000000
+      internalID: 7502141722638768756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 654
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35ad549db094680800000000000000
+      internalID: -8770465771519585310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 651
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae900e98262da2640800000000000000
+      internalID: 5056084852338592234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 651
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9b873931e3ebc0800000000000000
+      internalID: -3754910028435580028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 584
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3267d83947d6200800000000000000
+      internalID: 174924137619661802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 578
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408ceb8420ece68a0800000000000000
+      internalID: -6309879518693767164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 356
+        width: 45
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866f907c33ce5020800000000000000
+      internalID: 2332516321379444362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 356
+        width: 44
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f59f6dab07c0150800000000000000
+      internalID: 5840166764565585799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61a08787461fb70800000000000000
+      internalID: 8931030004625184418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 514
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a7f727a6daefd0800000000000000
+      internalID: -2311799445282905080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 503
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6140f796fe25900800000000000000
+      internalID: 671862530813204180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 478
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5217ebde34147e0800000000000000
+      internalID: -1783069289080609322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 489
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc21c8ac90b0c5d0800000000000000
+      internalID: -3044239161209836363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 467
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662196049935e6b0800000000000000
+      internalID: -5267740881211808147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 478
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26289f18695f3fb0800000000000000
+      internalID: -4665912385191008721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_16
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 476
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fabff7e7be4ca60800000000000000
+      internalID: 7693532992001257277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 426
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d113159510ae2c20800000000000000
+      internalID: 3183658001153331670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 428
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d87cd51b089df10800000000000000
+      internalID: 2295006984392904047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 442
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcc6b796d327ba0800000000000000
+      internalID: -6092739822627270661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 393
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1e5e0394da65a0800000000000000
+      internalID: -6527170981853783077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 398
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfc9c22b8ef4cc40800000000000000
+      internalID: 5531826115855372242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 359
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a334d420fba58f70800000000000000
+      internalID: 9188939662617752480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 267
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b7df103b98fa90800000000000000
+      internalID: -7279898166649441536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 282
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093485905e43a9d50800000000000000
+      internalID: 6744761550249673616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 287
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a51fb028690180800000000000000
+      internalID: -9148666678172344215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 284
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4194561c9242d0800000000000000
+      internalID: -3295900357559760275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_27
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 303
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7f56ef1ff922f0800000000000000
+      internalID: -996985330011768071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 242
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f6bfe3f7ff8ac0800000000000000
+      internalID: -3850586529307626340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 228
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba412c34e1f3a870800000000000000
+      internalID: 8693057668318841521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_30
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 276
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539126ced4f6e5dd0800000000000000
+      internalID: -2495434763047659211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89737e462e4c87c40800000000000000
+      internalID: 5510370620722329496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 267
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b97f1f440ff7e50800000000000000
+      internalID: 6809425340515457850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 236
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98090c4c8858ebe0800000000000000
+      internalID: -1447809920605288291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: almostttt_34
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147011ccc3869f0a0800000000000000
+      internalID: -6847327148109134015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

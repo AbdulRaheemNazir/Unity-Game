@@ -1,0 +1,230 @@
+[api-updater (non-obsolete-error-filter)] 09/03/2021 01:02:09 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1098.5837ms
+moved types parse time: 95ms
+candidates parse time : 2ms
+C# parse time         : 1139ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/03/2021 01:04:23 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 117.6843ms
+moved types parse time: 92ms
+candidates parse time : 2ms
+C# parse time         : 328ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 00:23:00 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3697.6946ms
+moved types parse time: 107ms
+candidates parse time : 2ms
+C# parse time         : 1371ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 00:56:57 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 305.1752ms
+moved types parse time: 131ms
+candidates parse time : 3ms
+C# parse time         : 508ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 00:58:14 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 117.6858ms
+moved types parse time: 93ms
+candidates parse time : 2ms
+C# parse time         : 323ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 20:38:39 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 7290.9959ms
+moved types parse time: 88ms
+candidates parse time : 2ms
+C# parse time         : 6157ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 20:39:51 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.4997ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 373ms
+candidates check time : 54ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 20:40:07 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 967.4118ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 376ms
+candidates check time : 56ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 20:43:43 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 606.7155ms
+moved types parse time: 173ms
+candidates parse time : 2ms
+C# parse time         : 681ms
+candidates check time : 152ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 20:52:57 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1192.9205ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 375ms
+candidates check time : 104ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/03/2021 23:07:11 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2414.8666ms
+moved types parse time: 91ms
+candidates parse time : 2ms
+C# parse time         : 323ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 16:18:01 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4847.5203ms
+moved types parse time: 166ms
+candidates parse time : 4ms
+C# parse time         : 905ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 16:19:04 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 502.6412ms
+moved types parse time: 178ms
+candidates parse time : 4ms
+C# parse time         : 600ms
+candidates check time : 103ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 16:21:21 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 356.896ms
+moved types parse time: 123ms
+candidates parse time : 2ms
+C# parse time         : 394ms
+candidates check time : 64ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 16:21:52 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 450.855ms
+moved types parse time: 201ms
+candidates parse time : 4ms
+C# parse time         : 664ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 19:23:21 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.509ms
+moved types parse time: 96ms
+candidates parse time : 2ms
+C# parse time         : 449ms
+candidates check time : 53ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 19:24:58 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 209.4388ms
+moved types parse time: 178ms
+candidates parse time : 3ms
+C# parse time         : 541ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/03/2021 19:26:23 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107.5228ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 357ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/03/2021 14:00:00 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3974.5816ms
+moved types parse time: 89ms
+candidates parse time : 2ms
+C# parse time         : 1139ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/03/2021 19:27:33 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3596.8419ms
+moved types parse time: 158ms
+candidates parse time : 2ms
+C# parse time         : 1882ms
+candidates check time : 103ms
+console write time    : 22ms
+
+[api-updater (non-obsolete-error-filter)] 15/03/2021 20:49:59 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1183.831ms
+moved types parse time: 112ms
+candidates parse time : 2ms
+C# parse time         : 3430ms
+candidates check time : 120ms
+console write time    : 22ms
+
+[api-updater (non-obsolete-error-filter)] 19/03/2021 20:27:47 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 540.5536ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 1842ms
+candidates check time : 158ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 19/03/2021 20:29:50 : Starting C:/Users/umeru/Downloads/2020.2.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135.6369ms
+moved types parse time: 109ms
+candidates parse time : 2ms
+C# parse time         : 400ms
+candidates check time : 90ms
+console write time    : 0ms
+
